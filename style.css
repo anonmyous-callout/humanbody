@@ -1,0 +1,11 @@
+h3{
+    color: red;
+}
+span.news{
+    color: rgb(236, 1, 1);
+}
+span#start{
+    color: greenyellow;
+}
+body { background-image:url('hacker-hack.gif'); background-repeat:no-repeat; background-size: cover; 
+}
